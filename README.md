@@ -1,5 +1,8 @@
 # ROS2-bag-to-csv-mcap-to-csv
 
+0. istall pandas
+   sudo apt-get install python3-pandas
+
 1.record ROS2 bag
   ros2 bag record -a
 end record with control c
